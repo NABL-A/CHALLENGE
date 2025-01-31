@@ -1,6 +1,6 @@
-### Challenge Robotique
+# Challenge Robotique
 
-# Méthode utilisé
+## Méthode utilisé
 
 Nous avons décidé d'utiliser un algorithme colonie de fourmis pour essayer de résoudre le problème par une méthode de renforcement.
 
@@ -23,6 +23,6 @@ if aco.fuel > 0
 ```
 du code antColony_v2
 
-# Lancement
+## Lancement
 
 Avant de lancer la simulation, il suivi tout d'abord de modifier le nom de la map à utiliser en 'donnees-map.txt' puis de lancer le programme python antColony_v2. Il suffit ensuite de lancer la simulation.
